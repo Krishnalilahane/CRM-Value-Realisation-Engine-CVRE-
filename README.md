@@ -121,4 +121,43 @@ With modelling, it becomes **decision analytics**.
 ---
 
 ## Project Structure
+CRM/
+│
+├── data/
+│ └── raw/
+│ ├── accounts.csv
+│ ├── contacts.csv
+│ ├── leads.csv
+│ ├── opportunities.csv
+│ └── activities.csv
+│
+├── data.ipynb # Synthetic CRM data generation
+├── analysis.ipynb # Behaviour audit & value modelling
+└── README.md
 
+
+---
+
+## Intended Audience
+
+- CRM transformation consultants  
+- Strategy & operations teams  
+- Business analysts  
+- Leaders questioning CRM ROI  
+
+This project demonstrates **decision-level thinking**, not tool usage.
+
+---
+
+## Key Takeaway
+
+> **CRM value is not missing — it is unmanaged.**  
+> With behavioural governance, a significant portion of lost revenue is recoverable without changing systems.
+
+---
+
+## Author
+
+**Krish**  
+MSc Data Analytics  
+Focus areas: Decision Analytics, CRM Value Realisation, Consulting-Grade Insights
